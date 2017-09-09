@@ -1,0 +1,486 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.9)  9 SEP 2017 21:47
+entering extended mode
+**"./Architectural Patterns.tex"
+("Architectural Patterns.tex"
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("Architectural Patterns.aux"
+
+LaTeX Warning: Label `fig_mbr' multiply defined.
+
+)
+\openout1 = `"Architectural Patterns.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+
+("C:\Users\Yasser Ahmed\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mk
+ii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count88
+\scratchdimen=\dimen105
+\scratchbox=\box26
+\nofMPsegments=\count89
+\nofMParguments=\count90
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count91
+\MPscratchDim=\dimen106
+\MPnumerator=\count92
+\makeMPintoPDFobject=\count93
+\everyMPtoPDFconversion=\toks16
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 10.
+
+("Architectural Patterns.toc")
+\tf@toc=\write3
+\openout3 = `"Architectural Patterns.toc"'.
+
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 21.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 21.
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+<Images/mvc.png, id=10, 151.3153pt x 296.60812pt>
+File: Images/mvc.png Graphic file (type png)
+ <use Images/mvc.png>
+Package pdftex.def Info: Images/mvc.png used on input line 31.
+(pdftex.def)             Requested size: 121.0524pt x 237.2868pt.
+ [2 <./Images/mvc.png>] <Images/pac.jpg, id=17, 574.145pt x 392.46625pt>
+File: Images/pac.jpg Graphic file (type jpg)
+
+<use Images/pac.jpg>
+Package pdftex.def Info: Images/pac.jpg used on input line 54.
+(pdftex.def)             Requested size: 373.18983pt x 255.10002pt.
+
+Overfull \hbox (28.18983pt too wide) in paragraph at lines 54--55
+ [][] 
+ []
+
+[3 <./Images/pac.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+<Images/p&f.png, id=21, 585.18625pt x 85.31876pt>
+File: Images/p&f.png Graphic file (type png)
+ <use Images/p&f.png>
+Package pdftex.def Info: Images/p&f.png used on input line 76.
+(pdftex.def)             Requested size: 380.36655pt x 55.45651pt.
+
+Overfull \hbox (35.36655pt too wide) in paragraph at lines 76--77
+ [][] 
+ []
+
+[4 <./Images/p&f.png (PNG copy)>]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+
+<Images/ls.jpg, id=25, 466.74374pt x 303.1325pt>
+File: Images/ls.jpg Graphic file (type jpg)
+ <use Images/ls.jpg>
+Package pdftex.def Info: Images/ls.jpg used on input line 100.
+(pdftex.def)             Requested size: 303.37984pt x 197.03378pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
+
+ []
+
+[5 <./Images/ls.jpg>] <Images/mk.png, id=29, 160.0581pt x 107.96162pt>
+File: Images/mk.png Graphic file (type png)
+
+<use Images/mk.png>
+Package pdftex.def Info: Images/mk.png used on input line 112.
+(pdftex.def)             Requested size: 272.09758pt x 183.53395pt.
+ [6 <./Images/mk.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+
+ []
+
+<Images/client-server.png, id=33, 501.875pt x 301.125pt>
+File: Images/client-server.png Graphic file (type png)
+
+<use Images/client-server.png>
+Package pdftex.def Info: Images/client-server.png used on input line 126.
+(pdftex.def)             Requested size: 501.87376pt x 301.12425pt.
+
+Overfull \hbox (156.87376pt too wide) in paragraph at lines 126--127
+ [][] 
+ []
+
+[7 <./Images/client-server.png>] <Images/3t.jpg, id=39, 333.245pt x 293.095pt>
+File: Images/3t.jpg Graphic file (type jpg)
+
+<use Images/3t.jpg>
+Package pdftex.def Info: Images/3t.jpg used on input line 147.
+(pdftex.def)             Requested size: 333.24417pt x 293.09427pt.
+ [8 <./Images/3t.jpg>]
+<Images/4t.jpg, id=43, 333.245pt x 380.42125pt>
+File: Images/4t.jpg Graphic file (type jpg)
+ <use Images/4t.jpg>
+Package pdftex.def Info: Images/4t.jpg used on input line 166.
+(pdftex.def)             Requested size: 299.91771pt x 342.37595pt.
+ [9 <./Images/4t.jpg>] <Images/r.png, id=47, 511.15968pt x 462.22687pt>
+File: Images/r.png Graphic file (type png)
+ <use Images/r.png>
+Package pdftex.def Info: Images/r.png used on input line 193.
+(pdftex.def)             Requested size: 281.13869pt x 254.22556pt.
+
+[10 <./Images/r.png>] <Images/bb.jpg, id=52, 891.33pt x 632.3625pt>
+File: Images/bb.jpg Graphic file (type jpg)
+
+<use Images/bb.jpg>
+Package pdftex.def Info: Images/bb.jpg used on input line 230.
+(pdftex.def)             Requested size: 267.40106pt x 189.7102pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
+
+ []
+
+[11 <./Images/bb.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 247--248
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--248
+
+ []
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 257--258
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--260
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--262
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--262
+
+ []
+
+<Images/pc.png, id=59, 321.2pt x 251.94125pt>
+File: Images/pc.png Graphic file (type png)
+ <use Images/pc.png>
+Package pdftex.def Info: Images/pc.png used on input line 266.
+(pdftex.def)             Requested size: 256.96034pt x 201.55327pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--276
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--276
+
+ []
+
+[13 <./Images/pc.png>] <Images/mas.png, id=65, 481.8pt x 355.3275pt>
+File: Images/mas.png Graphic file (type png)
+
+<use Images/mas.png>
+Package pdftex.def Info: Images/mas.png used on input line 281.
+(pdftex.def)             Requested size: 337.25769pt x 248.72754pt.
+ [14 <./Images/mas.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 290--291
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 298--299
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--302
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--302
+
+ []
+
+<Images/soa.png, id=69, 325.33545pt x 213.9192pt>
+File: Images/soa.png Graphic file (type png)
+ <use Images/soa.png>
+Package pdftex.def Info: Images/soa.png used on input line 307.
+(pdftex.def)             Requested size: 325.33464pt x 213.91867pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--316
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--316
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--316
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--316
+
+ []
+
+[15 <./Images/soa.png>] <Images/ms.jpg, id=73, 388.45125pt x 256.96pt>
+File: Images/ms.jpg Graphic file (type jpg)
+
+<use Images/ms.jpg>
+Package pdftex.def Info: Images/ms.jpg used on input line 320.
+(pdftex.def)             Requested size: 271.914pt x 179.87076pt.
+ [16 <./Images/ms.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 335--336
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--336
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--336
+
+ []
+
+<Images/mb.jpg, id=77, 610.28pt x 240.9pt>
+File: Images/mb.jpg Graphic file (type jpg)
+ <use Images/mb.jpg>
+Package pdftex.def Info: Images/mb.jpg used on input line 340.
+(pdftex.def)             Requested size: 335.65503pt x 132.49539pt.
+ [17 <./Images/mb.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 349--350
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--350
+
+ []
+
+<Images/mbr.jpg, id=81, 425.59pt x 343.2825pt>
+File: Images/mbr.jpg Graphic file (type jpg)
+ <use Images/mbr.jpg>
+Package pdftex.def Info: Images/mbr.jpg used on input line 354.
+(pdftex.def)             Requested size: 340.47244pt x 274.62636pt.
+ [18 <./Images/mbr.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 363--364
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 363--364
+
+ []
+
+<Images/p2p.jpg, id=85, 523.9575pt x 491.8375pt>
+File: Images/p2p.jpg Graphic file (type jpg)
+ <use Images/p2p.jpg>
+Package pdftex.def Info: Images/p2p.jpg used on input line 369.
+(pdftex.def)             Requested size: 261.9781pt x 245.91814pt.
+ [19 <./Images/p2p.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 378--379
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 382--383
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 382--383
+
+ []
+
+<Images/c&r.jpg, id=90, 715.17188pt x 357.58594pt>
+File: Images/c&r.jpg Graphic file (type jpg)
+ <use Images/c&r.jpg>
+Package pdftex.def Info: Images/c&r.jpg used on input line 386.
+(pdftex.def)             Requested size: 357.58505pt x 178.79253pt.
+
+Overfull \hbox (12.58505pt too wide) in paragraph at lines 386--387
+ [][] 
+ []
+
+[20 <./Images/c&r.jpg>] ("Architectural Patterns.aux")
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1614 strings out of 493323
+ 23138 string characters out of 3139044
+ 83004 words of memory out of 3000000
+ 5140 multiletter control sequences out of 15000+200000
+ 7588 words of font info for 27 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 39i,6n,25p,956b,290s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmsy10.pfb>
+Output written on "Architectural Patterns.pdf" (20 pages, 850020 bytes).
+PDF statistics:
+ 114 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+

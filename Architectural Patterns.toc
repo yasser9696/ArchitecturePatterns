@@ -1,0 +1,18 @@
+\contentsline {section}{\numberline {1}Model-View-Controller}{2}
+\contentsline {section}{\numberline {2}Presentation-Abstraction-Control}{3}
+\contentsline {section}{\numberline {3}Pipe And Filter}{4}
+\contentsline {section}{\numberline {4}Layered Systems}{5}
+\contentsline {section}{\numberline {5}Microkernal}{6}
+\contentsline {section}{\numberline {6}Client-Server}{7}
+\contentsline {section}{\numberline {7}N-Tier}{8}
+\contentsline {section}{\numberline {8}Repository}{10}
+\contentsline {section}{\numberline {9}Blackboard}{11}
+\contentsline {section}{\numberline {10}Finite State Machine}{12}
+\contentsline {section}{\numberline {11}Process Control}{13}
+\contentsline {section}{\numberline {12}Multi Agent System}{14}
+\contentsline {section}{\numberline {13}SOA}{15}
+\contentsline {section}{\numberline {14}Master-Slave}{16}
+\contentsline {section}{\numberline {15}Message Bus}{17}
+\contentsline {section}{\numberline {16}Message Broker}{18}
+\contentsline {section}{\numberline {17}Peer-to-peer}{19}
+\contentsline {section}{\numberline {18}Call and Return}{20}
